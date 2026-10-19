@@ -1,0 +1,6 @@
+contracts_priced=2720
+max_put_call_parity_error=2.842e-14
+max_greek_rel_error_vs_finite_diff=1.917e-07
+iv_cases=1260 iv_failures=0 avg_iters=5.98 max_iv_error=9.000e-08
+atm_1y_call closed_form=9.319738 mc=9.324653 mc_std_err=0.007354 z=0.67
+throughput_price_plus_greeks_per_sec=20252216
