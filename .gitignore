@@ -1,0 +1,7 @@
+validate
+mmsim
+grid.csv
+__pycache__/
+*.pyc
+results/*/
+data/*.csv
